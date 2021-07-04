@@ -52,7 +52,8 @@ const Contact = () => {
 
       <p>
         I'm currently employed as a consultant at EY but always happy to share some thoughts over a
-        coffee.
+        coffee. Feel free to connect with me on{' '}
+        <a href="https://www.linkedin.com/in/samarthsehgal">LinkedIn</a> or shoot me an email!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
