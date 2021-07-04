@@ -49,11 +49,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Samarth Sehgal.</h2>;
-  const three = <h3 className="big-heading">I give meaning to your data.</h3>;
+  const three = <h3 className="big-heading">I automate your processes.</h3>;
   const four = (
     <p>
-      I'm a data scientist based in Sydney focussed on building automation models, 
-      specialized in providing AI solutions and building websites on the side.
+      I'm an Intelligent Automation Consultant based in Sydney focussed on building automation
+      models, specialized in providing AI solutions and building websites on the side.
     </p>
   );
   const five = (

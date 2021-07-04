@@ -105,10 +105,8 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        Built by Samarth Sehgal, based on the design by
         <a href="https://github.com/bchiang7/v4">
-          <div>Brittany Chiang</div>
-
+          Built by Samarth Sehgal, based on the design by Brittany Chiang
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>

@@ -7,13 +7,9 @@ module.exports = {
       url: 'https://github.com/samarthsehgal97',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/sehgal.samarth',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/samarthsehgal',
-    }
+    },
   ],
 
   navLinks: [

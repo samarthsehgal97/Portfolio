@@ -132,7 +132,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python',  'Tensorflow',  'React', 'Node.js', 'Robotic Process Automation','PowerBI'];
+  const skills = [
+    'Python',
+    'Artificial Intelligence',
+    'Tensorflow',
+    'UIPath',
+    'Robotic Process Automation',
+    'PowerBI',
+    'React',
+    'Node.js',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,19 +150,23 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Sam, a Microsoft certified Data Analyst Associate, a data scientist by passion and a software engineer by profession.</p>
-
             <p>
-              I make the best use of stastics and computer science to provide you insights and automation tools that can help you
-              make objective decisions. My goal is to make the life of people around me easier 
-              and I try to achieve that using Artificial Intelligence.
+              Hello! I'm Sam, a Microsoft certified Data Analyst Associate, a data scientist by
+              passion and a consultant by profession.
             </p>
 
             <p>
-              I will soon be graduating from{' '}
-              <a href="https://www.sydney.edu.au/">The University of Sydney</a> (June, 2021), and open for 
-              full time opportunities beginning July 2021. Currenly, I am working as Junior Software engineer
-              at <a href="https://www.ordermentum.com/">Ordermentum</a>.
+              I make the best use of statistics and computer science to provide you insights and
+              automation tools that can help you make objective decisions. My goal is to make the
+              life of people around me easier and I try to achieve that by automating your redundant
+              processes.
+            </p>
+
+            <p>
+              I have recently graduated from{' '}
+              <a href="https://www.sydney.edu.au/">The University of Sydney</a> (June, 2021), and
+              currently working as an Intelligent Automation Consultant at{' '}
+              <a href="https://www.ey.com/">EY</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

@@ -51,8 +51,8 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm looking for full time opportunities in Data Science and Software Engineering. Feel free to 
-        email me to discuss my education, experience and projects in detail.
+        I'm currently employed as a consultant at EY but always happy to share some thoughts over a
+        coffee.
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

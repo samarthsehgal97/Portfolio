@@ -3,7 +3,7 @@ date: '2021-03-06'
 title: 'Junior Software Engineer'
 company: 'Ordermentum'
 location: 'Sydney, NSW'
-range: 'Jan 2021 - Present'
+range: 'Jan 2021 - Mar 2021'
 url: 'https://www.ordermentum.com/'
 ---
 
