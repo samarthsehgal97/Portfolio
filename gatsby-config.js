@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Samarth Sehgal',
     description:
-      'Samarth Sehgal is a data scientist based in Sydney focussed on building automation models, specialized in providing AI solutions and building websites on the side.',
+      'Samarth Sehgal is an automation consultant based in Sydney focussed on building automation models, specialized in providing AI solutions and building websites on the side.',
     siteUrl: 'https://samarthsehgal97.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@sforsamarth',
