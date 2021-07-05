@@ -2,7 +2,7 @@
 date: '2'
 title: 'AI Chatbot'
 cover: './chatbot.PNG'
-external: 'https://samarthsehgal97.github.io'
+external: 'https://samarthsehgal97.github.io/old-portfolio'
 tech:
   - Dialogflow
   - Artificial Intelligence
